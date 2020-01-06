@@ -1,13 +1,13 @@
 	<!--================Home Banner Area =================-->
-	<section class="banner-area owl-carousel" id="home">
-		<div class="single_slide_banner slide_bg1" style="background: url(<?php echo base_url() ?>assets/img/banner/banner-bg1.jpg);">
+	<section class="" id="home"  style="background-repeat: no-repeat; background-size: 100% 100% !important; background: url(<?php echo base_url() ?>assets/img/banner/banner_1.jpg);">
+		<div class="">
 			<div class="container">
 				<div class="row fullscreen d-flex align-items-center">
 					<div class="banner-content col-lg-12 justify-content-center">
-						<h1>Cara cerdas untuk Meningkatkan Keahlian anda</h1>
-						<h3>Melayani semua jenis training, kapan dan dimanapun anda berada, atau ikuti puluhan training regular kami di tiap akhir pekan di berbagai kota. baik untuk individu maupun perusahaan.</h3>
-						<a href="#" class="primary-btn"><b class="text-white"><i class="fas fa-list-alt"></i> &nbsp; Daftar Training</b></a>
-						<a href="#" class="primary-btn"><b class="text-white"><i class="fas fa-users"></i> &nbsp; Ingin Menjadi Trainer?</b></a>
+						<h1 style="color: #222222">Cara cerdas untuk Meningkatkan Keahlian anda</h1>
+						<h3 style="color: #222222">Melayani semua jenis training, kapan dan dimanapun anda berada, atau ikuti puluhan training regular kami di tiap akhir pekan di berbagai kota. baik untuk individu maupun perusahaan.</h3>
+						<a href="#" class="primary-btn font-weight-bold"><i class="fas fa-list-alt"></i> &nbsp; Daftar Training</a>
+						<a href="#" class="primary-btn font-weight-bold"><i class="fas fa-users"></i> &nbsp; Ingin Menjadi Trainer?</a>
 					</div>
 				</div>
 			</div>
@@ -244,7 +244,7 @@
 		<div class="container">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-5 about-left">
-					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/about-img.png" alt="">
+					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/Chart_1.png" alt="">
 				</div>
 				<div class="col-lg-6 col-md-12 about-right">
 					<div class="main-title text-left">
@@ -255,7 +255,7 @@
 							Training  kami, mencakup berbagai industri seperti, minyak dan gas, bangunan dan konstruksi, manufaktur, galangan kapal, pengembangan diri dan lainnya.
 						</p>
 					</div>
-					<a href="#" class="primary-btn font-weight-bold"><i class="fas fa-chevron-circle-right"></i> &nbsp; Baca Lebih Lanjut.</a>
+					<a href="<?php echo base_url() ?>training" class="primary-btn font-weight-bold"><i class="fas fa-chevron-circle-right"></i> &nbsp; Baca Lebih Lanjut.</a>
 				</div>
 			</div>
 		</div>
@@ -278,10 +278,10 @@
 							Jadwal training sesuai permintaan disesuaikan dengan kebutuhan anda. kapan dan dimanapun anda berada
 						</p>
 					</div>
-					<a href="#" class="primary-btn font-weight-bold"><i class="fas fa-chevron-circle-right"></i> &nbsp; Baca Lebih Lanjut.</a>
+					<a href="<?php echo base_url() ?>training" class="primary-btn font-weight-bold"><i class="fas fa-chevron-circle-right"></i> &nbsp; Baca Lebih Lanjut.</a>
 				</div>
 				<div class="col-lg-5 about-left">
-					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/about-img.png" alt="">
+					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/Chart_1.png" alt="">
 				</div>
 			</div>
 		</div>
@@ -293,7 +293,7 @@
 		<div class="container">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-5 about-left">
-					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/about-img.png" alt="">
+					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/Chart_1.png" alt="">
 				</div>
 				<div class="col-lg-6 col-md-12 about-right">
 					<div class="main-title text-left">
