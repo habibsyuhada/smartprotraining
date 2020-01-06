@@ -252,7 +252,7 @@
 	<!--================ End About Area =================-->
 
 	<!--================ Start About Area =================-->
-	<section class="about-area section_gap gray-bg">
+	<section class="about-area section_gap">
 		<div class="container">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6 col-md-12 about-right">
@@ -271,6 +271,116 @@
 				</div>
 				<div class="col-lg-5 about-left">
 					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/about-img.png" alt="">
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--================ End About Area =================-->
+
+		<!--================ Start About Area =================-->
+	<section class="about-area section_gap gray-bg">
+		<div class="container wow fadeIn" data-wow-duration=".8s">
+			<div class="main-title text-left">
+				<h1>KEUNGGULAN KAMI</h1>
+			</div>
+			<div class="row justify-content-between d-flex align-items-stretch bg-white">
+				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-user-tie"></i></h1>
+						<h3>Profesional</h3>
+						<span class="text-left">Trainer kami dari praktisi profesional dibidangnya.</span>
+					</div>
+				</div>
+				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-address-book"></i></h1>
+						<h3>Mudah</h3>
+						<span class="text-left">Pendaftaran mudah secara online</span>
+					</div>
+				</div>
+				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-clock"></i></h1>
+						<h3>Efektif</h3>
+						<span class="text-left">Waktu training yang singkat dan padat</span>
+					</div>
+				</div>
+				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-book"></i></h1>
+						<h3>Lengkap</h3>
+						<span class="text-left">Kurikulum materi disusun secara seksama</span>
+					</div>
+				</div>
+				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-book"></i></h1>
+						<h3>Flexible</h3>
+						<span class="text-left">Flexible dalam menentukan waktu training</span>
+					</div>
+				</div>
+			</div>
+			<div class="row justify-content-between d-flex align-items-stretch bg-white">
+				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-dollar-sign"></i></h1>
+						<h3>Terjangkau</h3>
+						<span class="text-left">Biaya yang lebih ekonomis karena kami tidak memiliki biaya harian seperti training konvensional</span>
+					</div>
+				</div>
+				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-credit-card"></i></h1>
+						<h3>Pembayaran</h3>
+						<span class="text-left">Pembayaran dilakukan secara transfer.</span>
+					</div>
+				</div>
+				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-medal"></i></h1>
+						<h3>Sertifikat</h3>
+						<span class="text-left">Sertifikat dari smartpro training</span>
+					</div>
+				</div>
+				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-map-marked-alt"></i></h1>
+						<h3>Lokasi</h3>
+						<span class="text-left">Tempat training di berbagai kota di Indonesia</span>
+					</div>
+				</div>
+				<!-- <div class="col-lg col-md-6 col-sm-12 py-4 text-center">
+					<div class="mb-50">
+						<h1><i class="fas fa-map-marked-alt"></i></h1>
+						<h3>Lokasi</h3>
+						<span class="text-left">Tempat training di berbagai kota di Indonesia</span>
+					</div>
+				</div> -->
+			</div>
+		</div>
+	</section>
+	<!--================ End About Area =================-->
+
+	<!--================ Start About Area =================-->
+	<section class="about-area section_gap">
+		<div class="container">
+			<div class="row align-items-center justify-content-between">
+				<div class="col-lg-5 about-left">
+					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/about-img.png" alt="">
+				</div>
+				<div class="col-lg-6 col-md-12 about-right">
+					<div class="main-title text-left">
+						<h1>KETENTUAN TRAINING</h1>
+					</div>
+					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
+						<ul class="unordered-list">
+							<li>Smartpro training adalah penyedia layanan training dalam menyediakan Trainer, Modul training dan tempat training.</li>
+							<li>Untuk training yang berkaitan dengan applikasi komputer, smartpro training tidak menyediakan komputer atau laptop beserta applikasi program yang diperlukan dalam training.</li>
+							<li>Peserta harus mempersiapkan sendiri komputer/Laptop beserta program aplikasi yang diperlukan didalamnya.</li>
+							<li>Training akan berjalan jika peserta minimal sudah tercapai, sudah melakukan pendaftaran dan membayar biaya training. untuk training regular.</li>
+							<li>Pembayaran hanya dilakukan melalui transfer ke Bank Mandiri, atas nama RAIDI GROUP dengan nomor rekening 109.00.138.184.55</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -383,35 +493,10 @@
 			<div class="row justify-content-center">
 				<div class="col-lg-6 text-center">
 					<div class="main-title">
-						<h1>Join Our Newsletter</h1>
-						<p>If you are looking at blank cassettes on the web, you may be very confused at the difference in price. You may
-							see some for as low as $.17 each.</p>
+						<h1>Ingin informasi lagi? Hubungi Kami</h1>
 					</div>
-				</div>
-			</div>
-			<div class="row newsletter_form justify-content-center">
-				<div class="col-lg-6 col-md-6 col-sm-6">
-					<div class="d-flex flex-row" id="mc_embed_signup">
-						<form class="w-100" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01"
-						 method="get">
-							<div class="navbar-form">
-								<div class="input-group add-on">
-									<input class="form-control" name="EMAIL" placeholder="Your email address" onfocus="this.placeholder = ''"
-									 onblur="this.placeholder = 'Your email address'" required="" type="email">
-									<div style="position: absolute; left: -5000px;">
-										<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
-									</div>
-									<div class="input-group-btn">
-										<button class="genric-btn text-uppercase">
-											Subscribe
-										</button>
-									</div>
-								</div>
-							</div>
-							<div class="info mt-20"></div>
-						</form>
-
-					</div>
+					<p>Kami disini untuk membantu anda, hubungi kami melalui telepon, email atau sosial menyediakan.</p>
+					<a href="#" class="primary-btn">Baca Lebih Lanjut.</a>
 				</div>
 			</div>
 		</div>
