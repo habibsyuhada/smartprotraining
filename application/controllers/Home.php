@@ -18,8 +18,38 @@ class Home extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see https://codeigniter.com/user_guide/general/urls.html
 	 */
-	public function index()
-	{
-		$this->load->view('home/index');
+	public function index(){
+		$data['subview'] 			= 'home/index';
+		$data['menu_active'] 	= 'home';
+		$data['meta_title'] 	= 'Home';
+		$this->load->view('index', $data);
+	}
+
+	public function training(){
+		$data['subview'] 			= 'home/index';
+		$data['menu_active'] 	= 'training';
+		$data['meta_title'] 	= 'Training';
+		$this->load->view('index', $data);
+	}
+
+	public function register(){
+		$data['subview'] 			= 'home/index';
+		$data['menu_active'] 	= 'register';
+		$data['meta_title'] 	= 'Daftar';
+		$this->load->view('index', $data);
+	}
+
+	public function career(){
+		$data['subview'] 			= 'home/index';
+		$data['menu_active'] 	= 'career';
+		$data['meta_title'] 	= 'Karir';
+		$this->load->view('index', $data);
+	}
+
+	public function contact(){
+		$data['subview'] 			= 'home/contact';
+		$data['menu_active'] 	= 'contact';
+		$data['meta_title'] 	= 'Kontak';
+		$this->load->view('index', $data);
 	}
 }
