@@ -26,7 +26,8 @@ class Home extends CI_Controller {
 	}
 
 	public function hostname(){
-		echo $_SERVER['HTTP_HOST'];
+		echo $_SERVER['HTTP_HOST'].'<br>';
+		echo base_url();
 	}
 
 	public function training(){
