@@ -25,6 +25,10 @@ class Home extends CI_Controller {
 		$this->load->view('index', $data);
 	}
 
+	public function hostname(){
+		echo $_SERVER['HTTP_HOST'];
+	}
+
 	public function training(){
 		$data['subview'] 			= 'home/training';
 		$data['menu_active'] 	= 'training';
