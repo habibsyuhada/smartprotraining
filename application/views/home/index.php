@@ -164,36 +164,36 @@
 			<div class="row justify-content-between d-flex align-items-stretch bg-white card-advantage">
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
 					<div class="mb-50">
-						<h1><i class="fas fa-user-tie"></i></h1>
-						<h3>Profesional</h3>
+						<h1 class="text-dark"><i class="fas fa-user-tie"></i></h1>
+						<h3 class="text-dark">Profesional</h3>
 						<span class="text-left">Trainer kami dari praktisi profesional dibidangnya.</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
 					<div class="mb-50">
-						<h1><i class="fas fa-address-book"></i></h1>
-						<h3>Mudah</h3>
+						<h1 class="text-dark"><i class="fas fa-address-book"></i></h1>
+						<h3 class="text-dark">Mudah</h3>
 						<span class="text-left">Pendaftaran mudah secara online</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
 					<div class="mb-50">
-						<h1><i class="fas fa-hourglass-half"></i></h1>
-						<h3>Efektif</h3>
+						<h1 class="text-dark"><i class="fas fa-hourglass-half"></i></h1>
+						<h3 class="text-dark">Efektif</h3>
 						<span class="text-left">Waktu training yang singkat dan padat</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
 					<div class="mb-50">
-						<h1><i class="fas fa-book"></i></h1>
-						<h3>Lengkap</h3>
+						<h1 class="text-dark"><i class="fas fa-book"></i></h1>
+						<h3 class="text-dark">Lengkap</h3>
 						<span class="text-left">Kurikulum materi disusun secara seksama</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
 					<div class="mb-50">
-						<h1><i class="fas fa-clock"></i></h1>
-						<h3>Flexible</h3>
+						<h1 class="text-dark"><i class="fas fa-clock"></i></h1>
+						<h3 class="text-dark">Flexible</h3>
 						<span class="text-left">Flexible dalam menentukan waktu training</span>
 					</div>
 				</div>
@@ -201,29 +201,29 @@
 			<div class="row justify-content-between d-flex align-items-stretch bg-white card-advantage">
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
 					<div class="mb-50">
-						<h1><i class="fas fa-dollar-sign"></i></h1>
-						<h3>Terjangkau</h3>
+						<h1 class="text-dark"><i class="fas fa-dollar-sign"></i></h1>
+						<h3 class="text-dark">Terjangkau</h3>
 						<span class="text-left">Biaya yang lebih ekonomis karena kami tidak memiliki biaya harian seperti training konvensional</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
 					<div class="mb-50">
-						<h1><i class="fas fa-credit-card"></i></h1>
-						<h3>Pembayaran</h3>
+						<h1 class="text-dark"><i class="fas fa-credit-card"></i></h1>
+						<h3 class="text-dark">Pembayaran</h3>
 						<span class="text-left">Pembayaran dilakukan secara transfer.</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
 					<div class="mb-50">
-						<h1><i class="fas fa-medal"></i></h1>
-						<h3>Sertifikat</h3>
+						<h1 class="text-dark"><i class="fas fa-medal"></i></h1>
+						<h3 class="text-dark">Sertifikat</h3>
 						<span class="text-left">Sertifikat dari smartpro training</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
 					<div class="mb-50">
-						<h1><i class="fas fa-map-marked-alt"></i></h1>
-						<h3>Lokasi</h3>
+						<h1 class="text-dark"><i class="fas fa-map-marked-alt"></i></h1>
+						<h3 class="text-dark">Lokasi</h3>
 						<span class="text-left">Tempat training di berbagai kota di Indonesia</span>
 					</div>
 				</div>
@@ -423,7 +423,7 @@
 						<h1>Ingin informasi lagi? Hubungi Kami</h1>
 					</div>
 					<p class="text-white">Kami disini untuk membantu anda, hubungi kami melalui telepon, email atau sosial menyediakan.</p>
-					<a href="#" class="primary-btn"><i class="fas fa-phone"></i> &nbsp; Hubungi Kami</a>
+					<a href="<?php echo base_url() ?>contact" class="primary-btn"><i class="fas fa-phone"></i> &nbsp; Hubungi Kami</a>
 				</div>
 			</div>
 		</div>
