@@ -15,7 +15,7 @@
 <!--================ End Contact Banner Area =================-->
 
 <!--================Contact Area =================-->
-<section class="contact_area section_gap">
+<section class="contact_area section_gap gray-bg">
 	<div class="container">
 		<div class="row justify-content-between contact_info mb-4">
 			<div class="col-md-3">

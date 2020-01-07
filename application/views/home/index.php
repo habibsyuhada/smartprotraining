@@ -1,5 +1,5 @@
 	<!--================Home Banner Area =================-->
-	<section class="" id="home"  style="background-repeat: no-repeat; background-size: 100% 100% !important; background: url(<?php echo base_url() ?>assets/img/banner/banner_1.jpg);">
+	<section class="" id="home"  style="background: url(<?php echo base_url() ?>assets/img/banner/banner_1.png);">
 		<div class="">
 			<div class="container">
 				<div class="row fullscreen d-flex align-items-center">
