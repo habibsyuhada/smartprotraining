@@ -1,7 +1,7 @@
 	<!--================Home Banner Area =================-->
 	<section class="" id="home"  style="background: url(<?php echo base_url() ?>assets/img/banner/banner_1.png);">
 		<div class="">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row fullscreen d-flex align-items-center">
 					<div class="banner-content col-lg-12 justify-content-center">
 						<h1 style="color: #222222">Cara cerdas untuk Meningkatkan Keahlian anda</h1>
@@ -13,7 +13,7 @@
 			</div>
 		</div>
 		<!-- <div class="single_slide_banner slide_bg2">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row fullscreen d-flex align-items-center">
 					<div class="banner-content col-lg-12 justify-content-center">
 						<h1>Steve Henriques</h1>
@@ -24,7 +24,7 @@
 			</div>
 		</div>
 		<div class="single_slide_banner slide_bg3">
-			<div class="container">
+			<div class="container-fluid">
 				<div class="row fullscreen justify-content-endd-flex align-items-center">
 					<div class="banner-content col-lg-12 justify-content-center">
 						<h1>Steve Henriques</h1>
@@ -39,7 +39,7 @@
 
 	<!--================ Start Portfolio Area =================-->
 	<!-- <section class="section_gap portfolio_area" id="work">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row justify-content-center">
 				<div class="col-lg-6 text-center">
 					<div class="main-title">
@@ -157,41 +157,41 @@
 
 	<!--================ Start Keunggulan =================-->
 	<section class="about-area section_gap gray-bg">
-		<div class="container wow fadeIn" data-wow-duration=".8s">
-			<div class="main-title text-left">
+		<div class="container-fluid">
+			<div class="main-title text-left wow fadeInDown">
 				<h1>KEUNGGULAN KAMI</h1>
 			</div>
 			<div class="row justify-content-between d-flex align-items-stretch bg-white card-advantage">
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1 class="text-dark"><i class="fas fa-user-tie"></i></h1>
 						<h3 class="text-dark">Profesional</h3>
 						<span class="text-left">Trainer kami dari praktisi profesional dibidangnya.</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1 class="text-dark"><i class="fas fa-address-book"></i></h1>
 						<h3 class="text-dark">Mudah</h3>
 						<span class="text-left">Pendaftaran mudah secara online</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1 class="text-dark"><i class="fas fa-hourglass-half"></i></h1>
 						<h3 class="text-dark">Efektif</h3>
 						<span class="text-left">Waktu training yang singkat dan padat</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1 class="text-dark"><i class="fas fa-book"></i></h1>
 						<h3 class="text-dark">Lengkap</h3>
 						<span class="text-left">Kurikulum materi disusun secara seksama</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1 class="text-dark"><i class="fas fa-clock"></i></h1>
 						<h3 class="text-dark">Flexible</h3>
 						<span class="text-left">Flexible dalam menentukan waktu training</span>
@@ -200,35 +200,35 @@
 			</div>
 			<div class="row justify-content-between d-flex align-items-stretch bg-white card-advantage">
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1 class="text-dark"><i class="fas fa-dollar-sign"></i></h1>
 						<h3 class="text-dark">Terjangkau</h3>
 						<span class="text-left">Biaya yang lebih ekonomis karena kami tidak memiliki biaya harian seperti training konvensional</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1 class="text-dark"><i class="fas fa-credit-card"></i></h1>
 						<h3 class="text-dark">Pembayaran</h3>
 						<span class="text-left">Pembayaran dilakukan secara transfer.</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1 class="text-dark"><i class="fas fa-medal"></i></h1>
 						<h3 class="text-dark">Sertifikat</h3>
 						<span class="text-left">Sertifikat dari smartpro training</span>
 					</div>
 				</div>
 				<div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1 class="text-dark"><i class="fas fa-map-marked-alt"></i></h1>
 						<h3 class="text-dark">Lokasi</h3>
 						<span class="text-left">Tempat training di berbagai kota di Indonesia</span>
 					</div>
 				</div>
 				<!-- <div class="col-lg col-md-6 col-sm-12 py-4 text-center">
-					<div class="mb-50">
+					<div class="mb-50 wow fadeInDown">
 						<h1><i class="fas fa-map-marked-alt"></i></h1>
 						<h3>Lokasi</h3>
 						<span class="text-left">Tempat training di berbagai kota di Indonesia</span>
@@ -241,7 +241,7 @@
 
 	<!--================ Start About Area =================-->
 	<section class="about-area section_gap">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-5 about-left">
 					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/Chart_1.png" alt="">
@@ -250,7 +250,7 @@
 					<div class="main-title text-left">
 						<h1>TRAINING KAMI</h1>
 					</div>
-					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
+					<div class="mb-50">
 						<p>
 							Training  kami, mencakup berbagai industri seperti, minyak dan gas, bangunan dan konstruksi, manufaktur, galangan kapal, pengembangan diri dan lainnya.
 						</p>
@@ -264,13 +264,13 @@
 
 	<!--================ Start About Area =================-->
 	<section class="about-area section_gap gray-bg">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6 col-md-12 about-right">
 					<div class="main-title text-left">
 						<h1>JADWAL TRAINING</h1>
 					</div>
-					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
+					<div class="mb-50">
 						<p>
 							Ikuti training regular kami yang rutin diadakan di kota kota di seluruh indonesia, lihat daftar training dan cari training yang sesuai dengan keperluan anda.
 						</p>
@@ -290,7 +290,7 @@
 
 	<!--================ Start About Area =================-->
 	<section class="about-area section_gap">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-5 about-left">
 					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/Chart_1.png" alt="">
@@ -299,7 +299,7 @@
 					<div class="main-title text-left">
 						<h1>KETENTUAN TRAINING</h1>
 					</div>
-					<div class="mb-50 wow fadeIn" data-wow-duration=".8s">
+					<div class="mb-50">
 						<ul class="unordered-list">
 							<li>Smartpro training adalah penyedia layanan training dalam menyediakan Trainer, Modul training dan tempat training.</li>
 							<li>Untuk training yang berkaitan dengan applikasi komputer, smartpro training tidak menyediakan komputer atau laptop beserta applikasi program yang diperlukan dalam training.</li>
@@ -316,7 +316,7 @@
 
 	<!--================ Start Testimonial Area =================-->
 	<!-- <div class="section_gap testimonial_area">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row justify-content-center">
 				<div class="col-lg-7 text-left">
 					<div class="active_testimonial owl-carousel" data-slider-id="1">
@@ -415,8 +415,8 @@
 	<!--================ End Testimonial Area =================-->
 
 	<!--================ Start Newsletter Area =================-->
-	<section class="section_gap newsletter-area">
-		<div class="container">
+	<section class="section_gap newsletter-area" style="background-attachment: fixed;background-position: center;">
+		<div class="container-fluid">
 			<div class="row justify-content-center">
 				<div class="col-lg-6 text-center">
 					<div class="main-title">

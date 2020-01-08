@@ -1,7 +1,7 @@
 <!--================ Start Contact Banner Area =================-->
 <section class="banner_area">
 	<div class="banner_inner d-flex align-items-center">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="banner_content text-right">
 				<h1 style="color: #222222">Contact Us</h1>
 				<!-- <div class="page_link">
@@ -16,7 +16,7 @@
 
 <!--================Contact Area =================-->
 <section class="contact_area section_gap gray-bg">
-	<div class="container">
+	<div class="container-fluid">
 		<div class="row justify-content-between contact_info mb-4">
 			<div class="col-md-3">
 				<div class="info_item">

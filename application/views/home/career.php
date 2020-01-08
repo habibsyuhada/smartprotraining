@@ -1,7 +1,7 @@
 ================ Start Contact Banner Area =================-->
 <section class="banner_area">
 	<div class="banner_inner d-flex align-items-center">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="banner_content text-right">
 				<h1 style="color: #222222">Menjadi Trainer Freelance</h1>
 				<!-- <div class="page_link">
@@ -16,7 +16,7 @@
 
 <!--================Information Area =================-->
 <section class="contact_area section_gap gray-bg pb-0">
-	<div class="container">
+	<div class="container-fluid">
 		<div class="row justify-content-center border-top pt-4">
 			<div class="col-md-8">
 				<h1 class="text-center text-dark">Trainer Freelance</h1>
@@ -33,7 +33,7 @@
 
 <!--================Form Area =================-->
 <section class="contact_area section_gap">
-	<div class="container">
+	<div class="container-fluid">
 		<div class="row justify-content-center border-top pt-4">
 			<div class="col-md-8">
 				<h1 class="text-center text-dark">Daftar Online Trainer Freelance</h1>

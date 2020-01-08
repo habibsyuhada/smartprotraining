@@ -1,7 +1,7 @@
 ================ Start Contact Banner Area =================-->
 <section class="banner_area">
 	<div class="banner_inner d-flex align-items-center">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="banner_content text-right">
 				<h1 style="color: #222222">Training</h1>
 				<!-- <div class="page_link">
@@ -16,7 +16,7 @@
 
 <!--================ Start About Area =================-->
 	<section class="about-area section_gap gray-bg">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-5 about-left">
 					<img class="img-fluid" src="<?php echo base_url(); ?>assets/img/Chart_1.png" alt="">
@@ -38,7 +38,7 @@
 
 <!--================ Start About Area =================-->
 	<section class="about-area section_gap">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row align-items-center justify-content-between">
 				<div class="col-lg-6 col-md-12 about-right">
 					<div class="main-title text-left">
