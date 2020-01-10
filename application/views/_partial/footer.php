@@ -1,5 +1,5 @@
 	<!--================ Start Footer Area =================-->
-	<footer class="footer_area py-4">
+	<footer class="footer_area py-4 wow fadeIn">
 		<div class="container">
 			<div class="row footer_inner justify-content-center">
 				<div class="col-lg-12 text-center">
@@ -15,8 +15,8 @@
 							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
 							<li><a href="#"><i class="fa fa-dribbble"></i></a></li>
 							<li><a href="#"><i class="fa fa-behance"></i></a></li>
-						</ul>
-					</aside> -->
+						</ul> -->
+					</aside>
 					<div class="pt-3">
 						<p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <i class="fas fa-heart"></i> from <a href="#" target="_blank">Smart Pro Training</a>

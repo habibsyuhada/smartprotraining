@@ -1,7 +1,7 @@
 <body>
 
 	<!--================Header Menu Area =================-->
-	<header class="header_area navbar_fixed">
+	<header class="header_area navbar_fixed font-weight-bold">
 		<div class="main_menu">
 			<nav class="navbar navbar-expand-lg navbar-light">
 				<div class="container">
@@ -16,11 +16,11 @@
 					<!-- Collect the nav links, forms, and other content for toggling -->
 					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
 						<ul class="nav navbar-nav menu_nav justify-content-end">
-							<li class="nav-item <?php echo ($menu_active == 'home' ? 'active' : '') ?>"><a class="nav-link" href="<?php echo base_url() ?>"><i class="fas fa-home"></i> &nbsp; Home</a></li>
-							<li class="nav-item <?php echo ($menu_active == 'training' ? 'active' : '') ?>"><a class="nav-link" href="<?php echo base_url() ?>training">Training</a></li>
-							<li class="nav-item <?php echo ($menu_active == 'register' ? 'active' : '') ?>"><a class="nav-link" href="<?php echo base_url() ?>register">Daftar</a></li>
-							<li class="nav-item <?php echo ($menu_active == 'career' ? 'active' : '') ?>"><a class="nav-link" href="<?php echo base_url() ?>career">Karir</a></li>
-							<li class="nav-item <?php echo ($menu_active == 'contact' ? 'active' : '') ?>"><a class="nav-link" href="<?php echo base_url() ?>contact">Contact</a></li>
+							<li class="nav-item <?php echo ($menu_active == 'home' ? 'active' : '') ?>"><a class="nav-link font-weight-bold" href="<?php echo base_url() ?>"><i class="fas fa-home"></i> &nbsp; Home</a></li>
+							<li class="nav-item <?php echo ($menu_active == 'training' ? 'active' : '') ?>"><a class="nav-link font-weight-bold" href="<?php echo base_url() ?>training">Training</a></li>
+							<li class="nav-item <?php echo ($menu_active == 'register' ? 'active' : '') ?>"><a class="nav-link font-weight-bold" href="<?php echo base_url() ?>register">Daftar</a></li>
+							<li class="nav-item <?php echo ($menu_active == 'career' ? 'active' : '') ?>"><a class="nav-link font-weight-bold" href="<?php echo base_url() ?>career">Karir</a></li>
+							<li class="nav-item <?php echo ($menu_active == 'contact' ? 'active' : '') ?>"><a class="nav-link font-weight-bold" href="<?php echo base_url() ?>contact">Contact</a></li>
 							<!-- <li class="nav-item"><a class="nav-link" href="about-us.html">About</a></li> -->
 							<!-- <li class="nav-item submenu dropdown">
 								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
