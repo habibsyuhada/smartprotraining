@@ -27,7 +27,7 @@ Author E-mail: naimlasker@gmail.com
 /*----------------------------------------------------*/
 body {
   line-height: 24px;
-  font-size: 18px;
+  font-size: 1.25rem;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   color: #777777; }
@@ -209,8 +209,7 @@ button:focus {
         font-size: 16px; }
         .header_area .navbar .nav .nav-item .nav-link:after {
           display: none; }
-      .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
-        /*color: #ffffff; background: #e45447;*/ border-bottom: 4px solid #e45447; color: #e45447; padding: 0px 15px; }
+      
         .header_area .navbar .nav .nav-item:hover.submenu ul .nav-item .nav-link {
               border-bottom: 0px;}
       .header_area .navbar .nav .nav-item.submenu {
@@ -2887,3 +2886,9 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+.header_area:not(.navbar_fixed) .navbar .nav .nav-item:hover .nav-link, .header_area:not(.navbar_fixed) .navbar .nav .nav-item.active .nav-link {
+        /*color: #ffffff; background: #e45447;*/ border-bottom: unset; color: #ffffff; padding: 0px 15px; }
+.header_area.navbar_fixed .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link{
+  border-bottom: 4px solid #e45447; color: #e45447; padding: 0px 15px;
+}

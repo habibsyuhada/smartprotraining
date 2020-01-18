@@ -1,7 +1,7 @@
 <body>
 
 	<!--================Header Menu Area =================-->
-	<header class="header_area navbar_fixed font-weight-bold">
+	<header class="header_area font-weight-bold wow fadeInDown">
 		<div class="main_menu">
 			<nav class="navbar navbar-expand-lg navbar-light">
 				<div class="container">

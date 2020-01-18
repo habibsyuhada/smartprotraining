@@ -1,4 +1,4 @@
-================ Start Contact Banner Area =================-->
+<!--================ Start Contact Banner Area =================-->
 <section class="banner_area">
 	<div class="banner_inner d-flex align-items-center">
 		<div class="container-fluid">
@@ -79,11 +79,11 @@
 				  <div class="form-group row">
 				    <label class="col-sm-3 col-form-label">Apakah anda dari <span class="text-danger">*</span></label>
 				    <div class="col-sm">
-				    	<label class="container-fluid_checkbox">Perusahaan
+				    	<label class="container_checkbox">Perusahaan
 							  <input type="checkbox">
 							  <span class="checkmark"></span>
 							</label>
-							<label class="container-fluid_checkbox">Individu
+							<label class="container_checkbox">Individu
 							  <input type="checkbox">
 							  <span class="checkmark"></span>
 							</label>
