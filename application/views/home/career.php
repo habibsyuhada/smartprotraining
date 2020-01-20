@@ -15,10 +15,10 @@
 <!--================ End Contact Banner Area =================-->
 
 <!--================Information Area =================-->
-<section class="contact_area section_gap gray-bg pb-0">
+<section class="contact_area section_gap">
 	<div class="container-fluid">
-		<div class="row justify-content-center border-top pt-4">
-			<div class="col-md-8">
+		<div class="row justify-content-center pt-4 wow fadeIn">
+			<div class="col-md-12">
 				<h1 class="text-center text-dark">Trainer Freelance</h1>
 				<p class="text-justify">
 					Apakah anda mempunyai talenta di bidang tertentu dan mempunyai kemampuan mengajar yang baik ? dan bersedia untuk travel di seluruh kota di Indonesia ?<br>
@@ -32,10 +32,10 @@
 <!--================Information Area =================-->
 
 <!--================Form Area =================-->
-<section class="contact_area section_gap">
+<section class="contact_area section_gap gray-bg">
 	<div class="container-fluid">
-		<div class="row justify-content-center border-top pt-4">
-			<div class="col-md-8">
+		<div class="row justify-content-center pt-4 wow fadeInRight">
+			<div class="col-md-12">
 				<h1 class="text-center text-dark">Daftar Online Trainer Freelance</h1>
 				<form class="text-dark">
 

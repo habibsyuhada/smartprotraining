@@ -15,10 +15,10 @@
 <!--================ End Contact Banner Area =================-->
 
 <!--================Information Area =================-->
-<section class="contact_area section_gap pb-0 gray-bg">
+<section class="contact_area section_gap">
 	<div class="container-fluid">
-		<div class="row justify-content-center border-top pt-4">
-			<div class="col-md-8">
+		<div class="row justify-content-center pt-4 wow fadeIn">
+			<div class="col-md-12">
 				<h1 class="text-center text-dark">Pendaftaran</h1>
 				<p class="text-justify">
 					Daftarkan diri anda untuk training bersama kami, dengan memilih produk training regular kami yang dibuka setiap akhir pekan atau pun produk training sesuai permintaan anda yang disesuikan dengan keperluan dan waktu anda, silakan mengisi daftar training online di bawah ini.
@@ -31,11 +31,12 @@
 <!--================Information Area =================-->
 
 <!--================Form Area =================-->
-<section class="contact_area section_gap">
+<section class="contact_area section_gap gray-bg">
 	<div class="container-fluid">
-		<div class="row justify-content-center border-top pt-4">
-			<div class="col-md-8">
+		<div class="row justify-content-center pt-4">
+			<div class="col-md-12 wow fadeInLeft">
 				<h1 class="text-center text-dark">Daftar Training Online</h1>
+				<hr>
 				<form class="text-dark">
 
 					<div class="form-group row">
