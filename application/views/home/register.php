@@ -3,7 +3,7 @@
 	<div class="banner_inner d-flex align-items-center">
 		<div class="container-fluid">
 			<div class="banner_content text-right">
-				<h1 style="color: #222222">Daftar Online</h1>
+				<h1 style="color: #fff">Daftar Online</h1>
 				<!-- <div class="page_link">
 					<a href="index.html">Home</a>
 					<a href="contact.html">Contact</a>

@@ -1,11 +1,11 @@
 	<!--================Home Banner Area =================-->
-	<section class="wow fadeIn" data-wow-duration="2s" id="home"  style="background: url(<?php echo base_url() ?>assets/img/banner/banner_1.png);">
+	<section class="wow fadeIn" data-wow-duration="2s" id="home"  style="background: url(<?php echo base_url() ?>assets/img/bg.png); background-size: cover; background-repeat: no-repeat;	">
 		<div class="">
 			<div class="container-fluid">
 				<div class="row fullscreen d-flex align-items-center">
 					<div class="banner-content col-lg-12 justify-content-center">
-						<h1 style="color: #222222">Cara cerdas untuk Meningkatkan Keahlian anda</h1>
-						<h3 style="color: #222222">Melayani semua jenis training, kapan dan dimanapun anda berada, atau ikuti puluhan training regular kami di tiap akhir pekan di berbagai kota. baik untuk individu maupun perusahaan.</h3>
+						<h1 style="color: #fff">Cara cerdas untuk Meningkatkan Keahlian anda</h1>
+						<h3 style="color: #fff">Melayani semua jenis training, kapan dan dimanapun anda berada, atau ikuti puluhan training regular kami di tiap akhir pekan di berbagai kota. baik untuk individu maupun perusahaan.</h3>
 						<a href="#" class="primary-btn font-weight-bold"><i class="fas fa-list-alt"></i> &nbsp; Daftar Training</a>
 						<a href="#" class="primary-btn font-weight-bold"><i class="fas fa-users"></i> &nbsp; Ingin Menjadi Trainer?</a>
 					</div>
