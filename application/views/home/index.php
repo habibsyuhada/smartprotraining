@@ -159,14 +159,14 @@
 	<!--================ Start Testimonial Area =================-->
 	<div class="section_gap testimonial_area">
 		<div class="container-fluid">
-			<div class="row justify-content-center">
-				<div class="col-lg text-left">
+			<div class="row">
+				<div class="col-sm-12 col-md-8 col-lg-8 text-left">
 					<div class="active_testimonial owl-carousel" data-slider-id="1">
 						
 						<div class="single_testimonial">
 							<div class="testimonial_head">
 								<img src="<?php echo base_url(); ?>assets/img/quote.png" alt="">
-								<h4>Fanny Spencer1</h4>
+								<h4>Habib Syuhada</h4>
 								<div class="review">
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
@@ -176,15 +176,14 @@
 								</div>
 							</div>
 							<div class="testimonial_content">
-								<p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about
-									it, you travel across her face</p>
+								<p>Im so satisfied with SmartPorTraining's Service. Our training so lively with professional trainer. We learn many things. Thanks SmartProTraining.</p>
 							</div>
 						</div>
 
 						<div class="single_testimonial">
 							<div class="testimonial_head">
 								<img src="<?php echo base_url(); ?>assets/img/quote.png" alt="">
-								<h4>Fanny Spencer2</h4>
+								<h4>Habib Syuhada</h4>
 								<div class="review">
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
@@ -194,15 +193,14 @@
 								</div>
 							</div>
 							<div class="testimonial_content">
-								<p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about
-									it, you travel across her face</p>
+								<p>Im so satisfied with SmartPorTraining's Service. Our training so lively with professional trainer. We learn many things. Thanks SmartProTraining.</p>
 							</div>
 						</div>
 
 						<div class="single_testimonial">
 							<div class="testimonial_head">
 								<img src="<?php echo base_url(); ?>assets/img/quote.png" alt="">
-								<h4>Fanny Spencer3</h4>
+								<h4>Habib Syuhada</h4>
 								<div class="review">
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
@@ -212,15 +210,14 @@
 								</div>
 							</div>
 							<div class="testimonial_content">
-								<p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about
-									it, you travel across her face</p>
+								<p>Im so satisfied with SmartPorTraining's Service. Our training so lively with professional trainer. We learn many things. Thanks SmartProTraining.</p>
 							</div>
 						</div>
 
 						<div class="single_testimonial">
 							<div class="testimonial_head">
 								<img src="<?php echo base_url(); ?>assets/img/quote.png" alt="">
-								<h4>Fanny Spencer4</h4>
+								<h4>Habib Syuhada</h4>
 								<div class="review">
 									<i class="fa fa-star"></i>
 									<i class="fa fa-star"></i>
@@ -230,10 +227,10 @@
 								</div>
 							</div>
 							<div class="testimonial_content">
-								<p>As conscious traveling Paup ers we must always be oncerned about our dear Mother Earth. If you think about
-									it, you travel across her face</p>
+								<p>Im so satisfied with SmartPorTraining's Service. Our training so lively with professional trainer. We learn many things. Thanks SmartProTraining.</p>
 							</div>
 						</div>
+
 					</div>
 				</div>
 			</div>
